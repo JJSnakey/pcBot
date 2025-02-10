@@ -1,0 +1,5 @@
+json
+speech_recognition
+requests
+openai
+playsound
